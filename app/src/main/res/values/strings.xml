@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Clone WhatsApp</string>
+
+    <!--LOGIN ACTIVITY!-->
+    <string name="login_btn_text">Login</string>
+    <string name="login_ID_input_text">Digite seu ID de Login (Ex.: Email, Phone)</string>
+    <string name="login_PW_input_text">Digite sua senha</string>
+    <string name="create_acc_text">Ainda não possui uma conta? Cadastre-se.</string>
+
+    <!--REGISTER ACTIVITY!-->
+    <string name="reg_name_input_text">Digite seu nome</string>
+    <string name="reg_email_input_text">Digite seu Email</string>
+    <string name="reg_pw_input_text">Digite sua senha</string>
+    <string name="reg_btn_text">Register</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile_name_description">Esse não é o seu nome de usuário nem senha. Esse nome ficará visivel para seus contatos do WhatsApp.</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_group">GroupActivity</string>
+    <string name="title_activity_create_group">CreateGroupActivity</string>
+
+</resources>

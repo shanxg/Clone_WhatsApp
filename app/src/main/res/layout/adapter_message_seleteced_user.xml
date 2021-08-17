@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="4dp" android:layout_marginLeft="4dp"
+    android:layout_marginEnd="32dp" android:layout_marginRight="32dp">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/background_message_chat"
+        android:backgroundTint="@android:color/white"
+        android:elevation="2dp"
+        android:layout_margin="4dp"
+        android:orientation="vertical"
+        android:layout_alignParentStart="true" android:layout_alignParentLeft="true">
+
+        <LinearLayout
+            android:id="@+id/movLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:paddingStart="4dp"
+            android:paddingLeft="4dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="4dp"
+            android:paddingRight="4dp"
+            android:paddingBottom="1dp"
+            android:visibility="gone">
+
+            <TextView
+                android:id="@+id/textMemberEmail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="4dp"
+                android:layout_marginLeft="4dp"
+                android:layout_marginTop="4dp"
+                android:layout_marginEnd="4dp"
+                android:layout_marginRight="4dp"
+                android:text="email@email.com"
+                android:textColor="@color/myGray"
+                android:textSize="13sp" />
+
+            <TextView
+                android:id="@+id/textMemberName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="4dp"
+                android:layout_marginLeft="4dp"
+                android:layout_marginTop="4dp"
+                android:layout_marginEnd="4dp"
+                android:layout_marginRight="4dp"
+                android:gravity="end"
+                android:text="Name Lastname"
+                android:textColor="@color/myGray"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/imageChatMessage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="6dp"
+            android:layout_weight="1"
+            android:padding="6dp"
+            android:visibility="gone"
+            app:srcCompat="@drawable/logo" />
+
+        <TextView
+            android:id="@+id/textChatMessage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="6dp"
+            android:layout_marginLeft="6dp"
+            android:layout_marginEnd="6dp"
+            android:layout_marginRight="6dp"
+            android:layout_weight="1"
+            android:padding="6dp"
+            android:text="@string/app_name"
+            android:textColor="@android:color/black"
+            android:textSize="16sp" />
+
+    </LinearLayout>
+
+
+</RelativeLayout>
