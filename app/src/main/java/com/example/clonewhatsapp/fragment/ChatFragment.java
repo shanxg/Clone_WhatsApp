@@ -57,7 +57,7 @@ public class ChatFragment extends Fragment {
 
     public void setRecyclerContactsChat(boolean onCreate){
 
-        if(recyclerAddress.getAdapter()==null) {
+        if(recyclerContactsChat.getAdapter()==null) {
             chatAdapter = new ChatAdapter(contactsChatList, getActivity());
 
             RecyclerView.LayoutManager layoutManager = new LinearLayoutManager(getActivity());
