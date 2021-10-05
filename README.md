@@ -105,10 +105,10 @@
 <div  align="center">
   
 # Check demonstration videos
-
- My WhatsApp
-  :--------:
-<video src=""> </p> | <video src="">
-:------: | :------:
+  
+  <video src=""> | <video src=""> 
+  :------------: | :------------:
+  
+  
 
 </div>
