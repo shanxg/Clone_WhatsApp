@@ -10,15 +10,15 @@
 >> <br />
 > 
 > - ## Demonstration 
->   - [Register](https://github.com/shanxg/Clone_Instagram#-register-)
->   - [User Settings](https://github.com/shanxg/Clone_Instagram#-user-profile-)
->   - [Chatting](https://github.com/shanxg/Clone_Instagram#-creating-new-post-)
->   - [Creating Group Chat](https://github.com/shanxg/Clone_Instagram#-search-users-)
->   - [Group Chat](https://github.com/shanxg/Clone_Instagram#-search-users-)
->   - [Login](https://github.com/shanxg/Clone_Instagram#-search-users-)
->   - [Picture Message](https://github.com/shanxg/Clone_Instagram#-post-feed-likes-and-comments-)
->   - [Search Tool](https://github.com/shanxg/Clone_Instagram#-post-feed-likes-and-comments-)
->   - ### [Full video demonstration](https://github.com/shanxg/Clone_Instagram#check-demonstration-videos)
+>   - [Register](https://github.com/shanxg/Clone_WhatsApp#-register-)
+>   - [User Settings](https://github.com/shanxg/Clone_WhatsApp#-user-settings-)
+>   - [Chatting](https://github.com/shanxg/Clone_WhatsApp#-chatting-)
+>   - [Creating Group Chat](https://github.com/shanxg/Clone_WhatsApp#-creating-group-chat-)
+>   - [Group Chat](https://github.com/shanxg/Clone_WhatsApp#-group-chat-)
+>   - [Login](https://github.com/shanxg/Clone_WhatsApp#-login-)
+>   - [Picture Message](https://github.com/shanxg/Clone_WhatsApp#-picture-message-)
+>   - [Search Tool](https://github.com/shanxg/Clone_WhatsApp#-search-tool-)
+>   - ### [Full video demonstration](https://github.com/shanxg/Clone_WhatsApp#check-demonstration-videos)
 >   
 >   <br>
 
