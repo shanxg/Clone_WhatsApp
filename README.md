@@ -106,8 +106,7 @@
   
 # Check demonstration videos
   
-  <video src="https://user-images.githubusercontent.com/63316622/136088969-5c9cc793-0543-47f4-8eba-d64cd391ce09.mp4"> | <video src="https://user-images.githubusercontent.com/63316622/136088912-d437ec0d-7db5-4af4-9f22-2d1794593fc1.mp4"> 
-  :------------: | :------------:
+  <video src="https://user-images.githubusercontent.com/63316622/136107328-29f9c3de-ed0b-4985-a1bf-fb02fb59908c.mp4">
   
   
 
